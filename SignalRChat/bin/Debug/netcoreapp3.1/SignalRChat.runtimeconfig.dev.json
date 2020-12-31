@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Boxland\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Boxland\\.nuget\\packages"
+    ]
+  }
+}
